@@ -1,7 +1,7 @@
 {
 	"segments": {
 		"right": [
-			{
+/*			{
 				"function": "powerline.segments.common.bat.battery",
 				"priority": 50
 			},
@@ -12,7 +12,7 @@
 					"steps": 10,
 					"gamify": true
 				}
-			},
+			},*/
 			{
 				"function": "powerline.segments.common.sys.system_load",
 				"priority": 50
