@@ -2,14 +2,13 @@
 	"segments": {
 		"right": [
 			{
-				"function": "powerline.segments.my.battery",
+				"function": "powerline.segments.my.power",
 				"priority": 50
 			},
 			{
 				"function": "powerline.segments.my.battery",
 				"priority": 50,
 				"args": {
-					"steps": 10,
 					"gamify": true
 				}
 			},
