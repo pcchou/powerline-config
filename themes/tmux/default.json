@@ -2,15 +2,15 @@
 	"segments": {
 		"right": [
 			{
-				"function": "powerline.segments.my.time",
+				"function": "powerline.segments.mypower.time",
 				"priority": 50
 			},
 			{
-				"function": "powerline.segments.my.power",
+				"function": "powerline.segments.mypower.power",
 				"priority": 50
 			},
 			{
-				"function": "powerline.segments.my.battery",
+				"function": "powerline.segments.mypower.battery",
 				"priority": 50,
 				"args": {
 					"gamify": true
