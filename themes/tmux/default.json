@@ -10,15 +10,15 @@
 				"priority": 50
 			},
 			{
+				"function": "powerline.segments.common.sys.uptime",
+				"priority": "40"
+			},
+			{
 				"function": "powerline.segments.mypower.battery",
 				"priority": 50,
 				"args": {
 					"gamify": true
 				}
-			},
-			{
-				"function": "powerline.segments.common.sys.uptime",
-				"priority": "40"
 			},
 			{
 				"function": "powerline.segments.common.sys.system_load",
